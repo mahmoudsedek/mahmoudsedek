@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoudsedek Data Engineer.
+- 👋 Hi, I’m @mahmoudsedek working as a Data Engineer.
 - 👀 I’m interested in the DATA field.
 - 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/mahmoudsedek/
