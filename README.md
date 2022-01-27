@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mahmoudsedek working as a Data Engineer.
+#Hey you, if you went throught my repos please let me know what do you think/what to improve.....THANKS!
+- 👋 Hi, I’m @mahmoudsedek IS & CS grad from Helwan-university and currently working as a Data Engineer.
 - 👀 I’m interested in the DATA field.
 - 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/mahmoudsedek/
