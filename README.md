@@ -1,4 +1,4 @@
-# Hey, take a look my repos please let me know what do you think/what to improve.....THANKS!
+# Hey, if you went through my repos please let me know what do you think/what to improve.....THANKS!
 - 👋 Hi, I’m @mahmoudsedek IS & CS grad from Helwan-university and currently working as a Data Engineer.
 - 👀 I’m interested in the DATA field.
 - 📫 How to reach me:
