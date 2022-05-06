@@ -3,6 +3,8 @@
 - 👀 I’m interested in the DATA field.
 - 📫 How to reach me:
   - Linkedin: https://www.linkedin.com/in/mahmoudsedek/
+  - Hackerrank: https://www.hackerrank.com/mahmoudsedek
+  - leetCode: https://leetcode.com/mahmoud_sedek/
   - mail: mahmoud.m.sedek@gmail.com
 
 <!---
